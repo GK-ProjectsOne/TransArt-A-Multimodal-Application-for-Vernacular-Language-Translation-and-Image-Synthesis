@@ -54,12 +54,20 @@ The primary goal of TransArt is to develop a user-friendly platform that enables
 ## Project Deliverables
 - **Source Code**: Complete code for the application
 
+## Requirements for Code
+- torch>=1.7.1
+- transformers>=4.0.0
+- Pillow>=8.0.0
+- gradio>=3.0.0
+- requests>=2.24.0
+
 ## Timeline
 - **Development**: 1 week
 - **Testing and Refinements**: 1 day
 - **Deployment and Launch**: 1 week
 
-
+## Hugging Face Spaces
+- https://huggingface.co/spaces/geetika14/TransArt/tree/main
 ---
 
 ### Note
